@@ -2,6 +2,8 @@
 
 ## Overview of analysis
 Overview of the analysis: Explain the purpose of this analysis.
+THe purpose of this analysis is to use Tableau to create effective visualizations from Citi Bike data in New York City. This analysis will be used to impress potential investors for a bike sharing business in Des Moines similar to Citi Bike in NYC.
+
 
 #### Deliverable 1: Change Trip Duration to a Datetime Format
 #### Deliverable 2: Create Visualizations for the Trip Analysis
