@@ -6,6 +6,7 @@ The purpose of this analysis is to use Tableau to create effective visualization
 
 #### Deliverable 1: Change Trip Duration to a Datetime Format
 Using Python and Pandas functions, I converted the "tripduration" column from an integer to datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After converting the "tripduration" column to a datetime datatype, I exported the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
+
 See NYC_CitiBike_Challenge.ipynb
 ![img](https://github.com/Soniaprogram/bikesharing/blob/main/images/del1.PNG)
 
