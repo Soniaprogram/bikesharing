@@ -32,7 +32,7 @@ Visualization 5: Shows the number of bike trips for each type of user and gender
 ## Results
 Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image
 
-#### Checkout Times for Users
+### Checkout Times for Users
 ![img1](https://github.com/Soniaprogram/bikesharing/blob/main/images/1_checkouttimesforusers.PNG)
 The bike checkout times peaked at 0h 5 minutes with 146,752 views.
 
