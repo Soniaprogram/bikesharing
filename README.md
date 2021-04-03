@@ -7,6 +7,7 @@ The purpose of this analysis is to use Tableau to create effective visualization
 #### Deliverable 1: Change Trip Duration to a Datetime Format
 Using Python and Pandas functions, I converted the "tripduration" column from an integer to datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After converting the "tripduration" column to a datetime datatype, I exported the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
 See NYC_CitiBike_Challenge.ipynb
+![img](https://github.com/Soniaprogram/bikesharing/blob/main/images/del1.PNG)
 
 #### Deliverable 2: Create Visualizations for the Trip Analysis
 Using Tableau, I created the following 5 visualizations:
@@ -28,25 +29,27 @@ Visualization 5: Shows the number of bike trips for each type of user and gender
 
 
 ## Results
-![img1]()
 Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image
 
 #### Checkout Times for Users
-![img2]()
+![img1](https://github.com/Soniaprogram/bikesharing/blob/main/images/1_checkouttimesforusers.PNG)
 The bike checkout times peaked at 0h 5 minutes with 146,752 views.
 
 ### Checkout Times for Users by Gender
-![img3]()
+![img2](https://github.com/Soniaprogram/bikesharing/blob/main/images/2_checkouttimesbygender.PNG)
 73.7% of the bike checkout times at the peak time stated above consisted of males at 108,087 views. (108,087/146,752 * 100 = 73.7%)
 
 ### Trips by Weekday per Hour
+![img3](https://github.com/Soniaprogram/bikesharing/blob/main/images/3_tripsbyweekdayperhour.PNG)
 Most trips were taken during Monday-Friday during 7am-9am and Monday-Friday during 5pm-7pm. The peak being at Thursday at 5pm with 43,982 trips and at 6pm with 44,905 trips.
 
 ### Trips by Gender (Weekday per Hour)
+![img4](https://github.com/Soniaprogram/bikesharing/blob/main/images/4_tripsbygender.PNG)
 During the peak times above, it appears males take the most trips. At the peak time on Thursday at 5pm, males took 30,561 trips (30,561/43,982 * 100 = 69.5%) and at 6pm, males took 30,749 trips (30,749/44,905 * 100 = 68.5%). 
 
 ### User Trips by Gender by Weekday
-The most trips were taken by males and by subcribers during the weekdays. The peak trips taken by male subscribers are 259,316 trips on Thursday. 
+![img5](https://github.com/Soniaprogram/bikesharing/blob/main/images/5_usertripsbygenderbyweekday.PNG)
+The most trips were taken by males and by subcribers during the weekdays. The maximum trips taken by male subscribers are 259,316 trips on Thursday. 
 
 ## Summary
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
