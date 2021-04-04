@@ -3,7 +3,6 @@
 ## Overview of analysis
 The purpose of this analysis is to use Tableau to create effective visualizations from Citi Bike data in New York City. This analysis will be used to impress potential investors for a bike sharing business in Des Moines similar to Citi Bike in NYC.
 
-
 #### Deliverable 1: Change Trip Duration to a Datetime Format
 Using Python and Pandas functions, I converted the "tripduration" column from an integer to datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After converting the "tripduration" column to a datetime datatype, I exported the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
 
@@ -25,12 +24,11 @@ Visualization 5: Shows the number of bike trips for each type of user and gender
 * Heatmap is created showing the number of bike trips for each type of user and gender for each day of the week and can only be filtered by user and gender
 
 #### Deliverable 3: Create a Story and Report for the Final Presentation
-
-[link to dashboard](https://public.tableau.com/views/NYC_Citibike_Challenge_16174335957650/CitiBikeinNYCUserActivity?:language=en&:display_count=y&publish=yes&:origin=viz_share_link "link to dashboard")
-
+[Link to Dashboard](https://public.tableau.com/views/NYC_Citibike_Challenge_16174335957650/CitiBikeinNYCUserActivity?:language=en&:display_count=y&publish=yes&:origin=viz_share_link "Link to Dashboard")
 
 ## Results
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image
+#### Access Tableau Dashboard Visualizations and Story here:
+[Link to Dashboard](https://public.tableau.com/views/NYC_Citibike_Challenge_16174335957650/CitiBikeinNYCUserActivity?:language=en&:display_count=y&publish=yes&:origin=viz_share_link "Link to Dashboard")
 
 ### Checkout Times for Users
 ![img1](https://github.com/Soniaprogram/bikesharing/blob/main/images/1_checkouttimesforusers.PNG)
@@ -52,7 +50,7 @@ During the peak times above, it appears males take the most trips. At the peak t
 ![img5](https://github.com/Soniaprogram/bikesharing/blob/main/images/5_usertripsbygenderbyweekday.PNG)
 The most trips were taken by males and by subcribers during the weekdays. The maximum trips taken by male subscribers are 259,316 trips on Thursday. 
 
-Added 3 more visualizations
+#### Added 3 more visualizations:
 
 ### Customers
 ![img6](https://github.com/Soniaprogram/bikesharing/blob/main/images/6_customers.PNG)
