@@ -26,7 +26,7 @@ Visualization 5: Shows the number of bike trips for each type of user and gender
 
 #### Deliverable 3: Create a Story and Report for the Final Presentation
 
-[link to dashboard]( "link to dashboard")
+[link to dashboard](https://public.tableau.com/views/NYC_Citibike_Challenge_16174335957650/CitiBikeinNYCUserActivity?:language=en&:display_count=y&publish=yes&:origin=viz_share_link "link to dashboard")
 
 
 ## Results
