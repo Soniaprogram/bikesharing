@@ -52,6 +52,17 @@ During the peak times above, it appears males take the most trips. At the peak t
 ![img5](https://github.com/Soniaprogram/bikesharing/blob/main/images/5_usertripsbygenderbyweekday.PNG)
 The most trips were taken by males and by subcribers during the weekdays. The maximum trips taken by male subscribers are 259,316 trips on Thursday. 
 
+Added 3 more visualizations
+
+### Customers
+![img6](https://github.com/Soniaprogram/bikesharing/blob/main/images/6_customers.PNG)
+
+### August Peak Hours
+![img7](https://github.com/Soniaprogram/bikesharing/blob/main/images/7_Augustpeakhours.PNG)
+
+### Gender Breakdown
+![img8](https://github.com/Soniaprogram/bikesharing/blob/main/images/8_genderbreakdown.PNG)
+
 ## Summary
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
