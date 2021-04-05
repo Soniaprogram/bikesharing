@@ -65,8 +65,6 @@ This visualization is a horizontal bar chart that shows the peak hours for bike 
 This visualization is a pie chart that showcases the gender breakdown of Citi Bike riders. Males make up the largest users of the Citi Bike service at a value of 1,530,272. Males make up  65.3% of the total users. 588,431 Females and 225,521 unknown use this service, making up a total of 2,344,224 users.
 
 ## Summary
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 In summary in New York City:
 * The highest number of bikes checked out at a value of 146,752 occurred at 5 mins of the trip duration. 73.7% of the users who were checking out these bikes at this peak time were male
 * The most Citi bike trips were taken during Monday-Friday during 7am-9am and 5pm-7pm. During these peak times, males took the most bike trips. 
